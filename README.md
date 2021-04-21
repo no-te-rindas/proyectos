@@ -1,3 +1,21 @@
 # READMEs de todos los proyectos de [/Proyectos](https://leonidasesteban.com/proyectos)
 
-- [Spotifu](./Spotifu) 
+Proyectos será tu acompañante en tu camino para mejorar tus skills como frontend developer.
+
+- [AllNotes](./allnotes)
+- [Artlist](./artlist)
+- [Guappjolotas](./guappjolotas)
+- [Nemium](./nemium)
+- [NetNet](./netnet)
+- [PetsApp](./petsapp)
+- [Pokédex](./pokedex)
+- [Portafolio de Anthony](./portafolio-anthony)
+- [Portafolio Antonio](./portafolio-antonio)
+- [Portafolio Chandler](./portafolio-chandler)
+- [Portafolio Edwyn](./portafolio-edwyn)
+- [Portafolio Elisa](./portafolio-elisa)
+- [Portafolio Gwen](./portafolio-gwen)
+- [Portafolio Jaume](./portfolio-jaume)
+- [Portafolio Pablo](./portafolio-pablo)
+- [Spotifu](./spotifu)
+- [TodoList](./todolist)
