@@ -3,10 +3,15 @@
 Proyectos será tu acompañante en tu camino para mejorar tus skills como frontend developer.
 
 - [AllNotes](./allnotes)
+- [Amazonas](./amazonas)
 - [Artlist](./artlist)
+- [Block Master](./blockmaster)
 - [Guappjolotas](./guappjolotas)
+- [Instantánea](./instantanea)
+- [Marvol](./marvol)
 - [Nemium](./nemium)
 - [NetNet](./netnet)
+- [Niko](./niko)
 - [PetsApp](./petsapp)
 - [Pokédex](./pokedex)
 - [Portafolio de Anthony](./portafolio-anthony)
@@ -18,4 +23,5 @@ Proyectos será tu acompañante en tu camino para mejorar tus skills como fronte
 - [Portafolio Jaume](./portfolio-jaume)
 - [Portafolio Pablo](./portafolio-pablo)
 - [Spotifu](./spotifu)
+- [StuckX](./stucks)
 - [TodoList](./todolist)
