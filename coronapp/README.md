@@ -4,7 +4,7 @@
 
 # Coronapp
 
-Lleva a código la primera iteración del ecommerce de una marca bastante posicionada en el mundo de los sneakers.
+Lleva a código la primera iteración del sitio que informa sobre una aplicación que ayuda a conocer más sobre el Coronavirus.
 
 ## Desktop
 
