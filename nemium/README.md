@@ -1,36 +1,32 @@
 <div align="center">
-<img width="120px"  src="https://github.com/no-te-rindas/logo/raw/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+<a href="https://leonidasesteban.com/proyectos">
+  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+</a>
 </div>
-
 
 # Nemium
 
+Crea la plantilla para tus blogpost con un diseño que ayuda con la estructura tu contenido.
 
-Crea la plantilla para tus blogpost con un diseño que ayuda con la estructura tu contenido. 
-
-### Resultado 
+### Resultado
 
 ## Desktop
 
 Así lucirá la versión en modo Desktop de tu proyecto.
 
-
   <img alt="Vista desktop del proyecto Nemium" width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/nemium/medium-1.png"/>
 
-
 ## Mobile
+
 Así lucirá la versión en modo mobile de tu proyecto.
 
   <img alt="Vista mobile del proyecto Nemium" width="400px" src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/nemium/nemium.png"/>
 
-
 [Ver demo live](https://leonidasesteban.github.io/curso-esencial-html-css/)
-
 
 ## Disclaimer
 
 Todas son propuestas al final /Proyectos es brindarte el diseño, el límite de la creación depende de tus ganas de hacerlo realidad y tu skills del momento a la hora de ejecutarlo.
-
 
 ## Nivel 1
 
@@ -65,15 +61,14 @@ Requerimentos:
 
 Si se te complica crear esta interfaz probablemente te ayude el [Curso esencial de HTML y CSS](https://leonidasesteban.com/cursos/html-css-fundamentos)
 
-
-
 ## Nivel 3
 
-¡Hazlo escalable! 
+¡Hazlo escalable!
 No sería una buena opción crear un documento html y añadirle estilos por cada blogpost que escribas, tu reto es hacer este diseño tu plantilla para cada blogpost que escribas.
 Tendrás que consumir tus archivos Markdown y lograr que cada post respete estos estilos, ahora si tendrás un blog.
 
 Puedes ayudarte de algunos servicios para consumir tus blogpost:
+
 - Ghost
 - Collected Notes
 - Notion
@@ -87,9 +82,7 @@ Requerimentos:
 - OpenGraph custom
 - Accesibilidad como prioridad
 
-
 > El límite es tu creatividad, lleva el proyecto hasta donde desees.
-
 
 ### Bonus
 
@@ -104,9 +97,3 @@ Recuerda mandar tu proyecto a revisión, si aún no conoces como funciona el pro
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
 Diseño creado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
-
-
-
-
-
-

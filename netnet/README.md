@@ -1,10 +1,12 @@
 <div align="center">
-<img width="120px"  src="https://github.com/no-te-rindas/logo/raw/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+<a href="https://leonidasesteban.com/proyectos">
+  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+</a>
 </div>
 
 # NetNet
 
-Construye la plataforma líder en streaming, permite a los usuarios acceder a sus series y peliculas favoritas desde la comodidad de sus teléfonos. 
+Construye la plataforma líder en streaming, permite a los usuarios acceder a sus series y peliculas favoritas desde la comodidad de sus teléfonos.
 
 ## Mobile
 
@@ -16,9 +18,10 @@ Todas son propuestas, el proposito de **/Proyectos** es brindarte el diseño, el
 
 ## Nivel 1
 
-Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación. 
+Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
 
 Requerimentos
+
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
@@ -29,6 +32,7 @@ Requerimentos
 ¡Hazla funcionar! Consume una API de video y permite reproducirlos.
 
 Requerimentos
+
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Consume una API
@@ -46,12 +50,13 @@ APIS que podrías usar:
 
 ## Nivel 3
 
-Configura tu sitio para que pueda ser utilizado como una PWA. 
+Configura tu sitio para que pueda ser utilizado como una PWA.
 
 Requerimentos
+
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
-- Hazla PWA 
+- Hazla PWA
 - Publica tu resultado con github pages
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
@@ -63,5 +68,4 @@ Recuerda mandar tu proyecto a revisión, si aún no conoces como funciona el pro
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en leonidasesteban.com
-
+Diseñado con ♥️ en [leonidasesteban.com](leonidasesteban.com)

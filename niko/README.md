@@ -1,5 +1,7 @@
 <div align="center">
-<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+<a href="https://leonidasesteban.com/proyectos">
+  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+</a>
 </div>
 
 # Niko
@@ -60,4 +62,4 @@ Requerimientos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en leonidasesteban.com
+Diseñado con ♥️ en [leonidasesteban.com](leonidasesteban.com)

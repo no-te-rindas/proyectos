@@ -1,5 +1,7 @@
 <div align="center">
-<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+<a href="https://leonidasesteban.com/proyectos">
+  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
+</a>
 </div>
 
 # Portafolio Elisa
@@ -14,15 +16,16 @@ Tus mejores proyectos merecen ser presentados en un gran portafolio, crea un por
 
 <img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/elisa/elisa-mobile.png" />
 
-## Disclaimer 
+## Disclaimer
 
 Todas son propuestas, el proposito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
 
 ## Nivel 1
 
-Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación. 
+Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
 
 Requerimentos
+
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
@@ -30,26 +33,27 @@ Requerimentos
 
 ## Nivel 2
 
-Personalízalo, tomate una gran foto y añadela, haz funcionar el  botón de **curriculum**.
+Personalízalo, tomate una gran foto y añadela, haz funcionar el botón de **curriculum**.
 
 Requerimentos
+
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Cambia la foto de Elisa por una tuya
 - Añade tu curriculum y permite que se pueda descargar
-- Agrega proyectos propios 
+- Agrega proyectos propios
 - Publica tu resultado con github pages
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
 
 ## Nivel 3
 
 Funcionalidad total. Dale vida al formulario para que logren contactarte si están interesados en trabajar contigo. Compra tu dominio y despliega tu portafolio.
 
 Requerimentos
+
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
-- Despliega tu portafolio en un dominio custom. 
+- Despliega tu portafolio en un dominio custom.
 - Haz funcionar el formulario para logren contactarte
 - Agrega un captcha para evitar bots
 - Publica tu resultado con github pages
@@ -59,9 +63,8 @@ Requerimentos
 
 Recuerda mandar tu proyecto a revisión, si aún no conoces como funciona el proceso de revisión lee este post: [Como usar proyectos en 3 pasos](https://leonidasesteban.com/blog/como-usar-proyectos-en-3-pasos)
 
-
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en leonidasesteban.com
+Diseñado con ♥️ en [leonidasesteban.com](leonidasesteban.com)

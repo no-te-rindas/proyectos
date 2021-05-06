@@ -4,13 +4,13 @@
 </a>
 </div>
 
-# PokeShirt
+# Daily Bits
 
-Construye el sitio que les permitirá a los fans de pokémon crear camisas a la medida con diseños únicos de su serie favorita.
+Construye la aplicación que ayudará a todas las personas que quieran aprender a programar a tomar pequeñas lecciones diarias para seguir repasando el conocimiento.
 
-## Desktop
+## Mobile
 
-<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/pokeshirt/pokeshirt-desktop.png?raw=true" />
+<img width="280px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/daily-bits/daily-bits-mobile.png?raw=true" />
 
 ## Disclaimer
 
@@ -29,28 +29,29 @@ Requerimientos
 
 ## Nivel 2
 
-Permite que al seleccionar un diseño se vea reflejado como lucirá en la camisa.
+Maneja todos los estados para hacerle saber al usuario si su respuesta fue correcta o incorrecta, además guarda los puntos para llevar un seguimiento del progreso del estudiante.
 
 Requerimientos
 
 - Accesibilidad como prioridad
-- Añadir interacción al seleccionar un diseño
+- Manejar el estado
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Nivel 3
 
-Maneja el estado para poder guardar todas las configuraciones del usuario en su camisa.
+¡Hazla funcionar! Manda push notification para recordarle que es hora de estudiar, puedes utilizar One Signal.
 
 Requerimientos
 
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
-- Maneja el estado
-- Añade todas las configuraciones de personalización
-- Publica tu resultado con github pages
+- Añade push notification
+- Publica tu resultado
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
+[One signal](https://onesignal.com/)
 
 ## Créditos
 
