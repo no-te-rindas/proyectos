@@ -66,4 +66,4 @@ Requerimientos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](leonidasesteban.com)
+Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)

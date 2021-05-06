@@ -69,4 +69,4 @@ Recuerda mandar tu proyecto a revisión, si aún no conoces como funciona el pro
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](leonidasesteban.com)
+Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
