@@ -4,17 +4,17 @@
 </a>
 </div>
 
-# Striped
+# Skyline
 
-Muestrale a cientos de empresas los beneficios de usar esta increíble pasarela de pagos, además crearás un gran diseño lleno de color.
+Muestrale a las personas los beneficios de usar esta increíble herramienta, además podrás practicar tus degradados.
 
 ## Desktop
 
-<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/striped/striped-desktop.png?raw=true" />
+<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/skyline/skyline-desktop.png?raw=true" />
 
 ## Mobile
 
-<img width="280px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/striped/striped-mobile.png?raw=true" />
+<img width="280px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/skyline/skyline-mobile.png?raw=true" />
 
 ## Disclaimer
 
@@ -33,12 +33,13 @@ Requerimientos
 
 ## Nivel 2
 
-Crea el sitio mobile first, utiliza la propiedad clip path para crear los polígonos.
+Crea el sitio mobile first, crea los degradados con CSS y si quieres experimentar añade una transición con degradados.
+Aprende en el blog: [Transiciones con degradados](https://leonidasesteban.com/blog/transicion-de-degradados-en-css)
 
 Requerimientos
 
 - Accesibilidad como prioridad
-- Usa clip path
+- Usa CSS para transiciones
 - Mobile first
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
