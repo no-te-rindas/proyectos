@@ -1,0 +1,21 @@
+
+:root { 
+  --black: #1d1d1d; 
+  --blue: #4276fb; 
+  --white: #ffffff; 
+  --h1: 700 3rem/3.5rem Poppins; 
+  --h2: 400 1.875rem/2.5rem Poppins; 
+  --button: 700 1.375rem/1.5rem Poppins; 
+  --body1: 400 1.125rem/2rem Poppins; 
+  --body1-underline: 400 1.125rem/2rem Poppins; 
+  --h3: 400 1.25rem/1.5rem Poppins; 
+    
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+

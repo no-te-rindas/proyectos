@@ -1,0 +1,25 @@
+
+:root { 
+  --white: #ffffff; 
+  --black-1: #202020; 
+  --primary: #e42831; 
+  --grey: #929292; 
+  --headline1: 700 2.5rem/normal Roboto Condensed; 
+  --subtitle1: 700 1.625rem/1.5rem Roboto Condensed; 
+  --button: 700 0.875rem/1rem Roboto; 
+  --headline2: 700 1.5rem/normal Roboto Condensed; 
+  --body1-regular: 400 1rem/1.5rem Roboto; 
+  --body1-bold: 700 1rem/1.5rem Roboto; 
+  --body2-bold: 700 0.875rem/1.5rem Roboto; 
+  --body2-regular: 400 0.875rem/1.5rem Roboto; 
+  --caption-regular: 400 0.75rem/1.5rem Roboto; 
+  --caption-bold: 700 0.75rem/1.5rem Roboto;
+}
+
+body {
+  color: var(--primary);
+  background-color: var(--black);
+}
+
+
+

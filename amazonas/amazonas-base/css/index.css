@@ -1,0 +1,24 @@
+:root {
+  --white: #ffffff; 
+  --grey: #565959; 
+  --black: #333333; 
+  --red: #af2913; 
+  --green: #0e7184; 
+  --blue-1: #131921; 
+  --blue-2: #242f3e; 
+  --primary: #f3d184; 
+  --secondary: #f0ad64; 
+  --subtitle1: 400 1.1875rem/normal Roboto; 
+  --headline1: 700 1.75rem/normal Roboto; 
+  --button: 400 0.75rem/normal Roboto; 
+  --body1-bold: 700 0.875rem/1.5rem Roboto; 
+  --body1-regular: 400 0.875rem/1.5rem Roboto; 
+  --body2-bold: 700 0.75rem/1.5rem Roboto; 
+  --body2-regular: 400 0.75rem/1.5rem Roboto; 
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+

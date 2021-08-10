@@ -1,0 +1,29 @@
+
+:root { 
+  --primary: #5928e5; 
+  --white: #fffffe; 
+  --black: #0d0d0d; 
+  --tertiary: #d9376e; 
+  --background-1: #eff0f3; 
+  --background-2: #eff0f3; 
+  --button-background: #ff8e3c; 
+  --headline1: 400 3.375rem/4.118750095367432rem Cormorant; 
+  --headline2: 400 2.1875rem/2.856250047683716rem Cormorant; 
+  --headline3: 700 1.75rem/2.4625000953674316rem Cormorant; 
+  --headline4: 700 1.75rem/1.649999976158142rem Cormorant; 
+  --button: 500 0.875rem/1.350000023841858rem Cormorant; 
+  --caption: 400 0.6875rem/1.0812499523162842rem Cormorant; 
+  --headline5: 700 1.25rem/1.649999976158142rem Arvo; 
+  --body1-regular: 500 1.25rem/1.6875rem Cormorant; 
+  --body1-bold: 700 1.25rem/1.6875rem Cormorant; 
+  --body2-regular: 400 0.875rem/1.350000023841858rem Inter; 
+  --body2-bold: 700 0.875rem/1.350000023841858rem Cormorant;    
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

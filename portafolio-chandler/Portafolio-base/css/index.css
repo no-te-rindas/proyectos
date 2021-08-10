@@ -1,0 +1,31 @@
+
+:root { 
+  --primary: #0000ff; 
+  --white: #fffffe; 
+  --grey: #e0e0e0; 
+  --secondary: #172326; 
+  --tertiary: #a13d63; 
+  --background-1: #f3f3f3; 
+  --background-2: #242629; 
+  --button-background: #7f5af0; 
+  --headline1: 700 6rem/6.625rem Neuton; 
+  --headline2: 700 4rem/4.75rem Neuton; 
+  --headline3: 700 2rem/2.5rem Neuton; 
+  --button: 700 1.125rem/1.6875rem Karla; 
+  --caption: 400 0.6875rem/1rem Karla; 
+  --headline5: 700 1.25rem/1.649999976158142rem Karla; 
+  --headline4-bold: 700 1.5rem/2.21875rem Karla; 
+  --headline4-regular: 400 1.5rem/2.21875rem Karla; 
+  --body2-regular: 400 1.1875rem/1.6875rem Karla; 
+  --body2-bold: 700 1.1875rem/1.6875rem Karla; 
+  --body1-bold: 700 1.875rem/2.5999999046325684rem Karla; 
+  --body1-regular: 400 1.875rem/2.5999999046325684rem Karla; 
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+

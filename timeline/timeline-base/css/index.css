@@ -1,0 +1,19 @@
+:root {
+  --black: #141514; 
+  --primary: #c5ff00; 
+  --grey-bg: #fbfbfb; 
+  --grey: #cecece; 
+  --white: #ffffff; 
+  --gray-2: #283015; 
+  --pink: #fd1ebf; 
+  --desktop-body2-regular: 400 1rem/2rem Inter; 
+  --desktop-body2-bold: semi bold 1rem/2rem Inter; 
+  --desktop-body3-regular: 400 0.875rem/1.5rem Inter; 
+  --desktop-body3-semibold: semi bold 0.875rem/1.5rem Inter; 
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+

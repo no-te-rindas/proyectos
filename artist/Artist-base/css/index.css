@@ -1,0 +1,25 @@
+:root {
+  --primary: #fed941; 
+  --white: #ffffff; 
+  --grey: #bdbdbd; 
+  --black: #0b0b0b; 
+  --headline1: 700 40rem/normal Inter; 
+  --headline2: 700 3.1875rem/normal Inter; 
+  --headline3: 700 2.3125rem/1.96875rem Inter; 
+  --headline4: 700 1.75rem/normal Inter; 
+  --headline5: 700 1.5625rem/normal Inter; 
+  --body1: 400 1.5625rem/normal Inter; 
+  --body2: 400 1rem/1.375rem Inter; 
+  --button: 700 1rem/1.5rem Inter; 
+  --caption: 400 0.75rem/1.375rem Inter;
+ 
+
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

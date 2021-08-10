@@ -1,0 +1,20 @@
+
+:root { 
+  --white: #ffffff; 
+  --black-1: #111111; 
+  --grey: #757575; 
+  --grey-2: #f5f5f5; 
+  --headline1: 900 2rem/normal Avenir; 
+  --subtitle1: heavy 1.75rem/normal Avenir; 
+  --button: 500 1rem/1rem Avenir; 
+  --body1-roman: book 1rem/1.5rem Avenir; 
+  --body1-heavy: heavy 1rem/1.5rem Avenir;   
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

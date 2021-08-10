@@ -1,0 +1,27 @@
+:root {
+--stripegradient: linear-gradient(31deg, #a960ee 0%, #c788cb 100%); 
+--headlines: #393939; 
+--subtitles: #425466; 
+--primarybuttons: #11253e; 
+--secondarybuttons: #0a2540; 
+--white: #ffffff; 
+--windowgradient: linear-gradient(337deg, #e7e8ed 0%, #ffffff 100%); 
+--purple: #635cff; 
+--grey: #f6f9fc; 
+--blue: #01d4ff; 
+--dark-blue: #092540; 
+--headline1: 700 5rem/normal Helvetica Neue; 
+--buttons: 500 1rem/1.5rem Helvetica Neue; 
+--headline2: 700 2.5rem/normal Helvetica Neue; 
+--body2-bold: 700 1rem/1.5rem Helvetica Neue; 
+--body2-regular: 400 1rem/1.5rem Helvetica Neue; 
+--body1-regular: 400 1.125rem/2.125rem Helvetica Neue; 
+--body1-bold: 700 1.125rem/2.125rem Helvetica Neue; 
+
+}
+
+body {
+  color: var(--white);
+  background-color: var(--blue);
+}
+

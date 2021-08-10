@@ -1,0 +1,24 @@
+
+:root { 
+  --white: #ffffff; 
+  --black-1: #2c2c2c; 
+  --primary: linear-gradient(24deg, #fb3a78 28.17%, #fc705e 73.41%); 
+  --grey: #5c5c5c; 
+  --black-3: #242424; 
+  --bg: #f5f7fa; 
+  --grey-2: #dfe3ea; 
+  --headline1: 900 2rem/normal Poppins; 
+  --subtitle1: 700 1rem/1rem Poppins; 
+  --button: 500 0.875rem/1rem Poppins; 
+  --body1-roman: 400 0.875rem/1.5rem Poppins; 
+  --body1-black: 900 0.875rem/1.375rem Poppins; 
+  
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

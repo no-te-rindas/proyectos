@@ -1,0 +1,15 @@
+
+:root { 
+--white: #ffffff; 
+--black-1: #202020; 
+--primary: #ED4756; 
+--grey: #DBDBDB; 
+}
+
+body {
+  color: var(--primary);
+  background-color: var(--black);
+}
+
+
+

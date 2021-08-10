@@ -1,0 +1,35 @@
+:root {
+  --white: #fffffe; 
+  --grey-10: #444444; 
+  --black: #1a1a1a; 
+  --grey-05: #999999; 
+  --orange: #f3be7b; 
+  --grey-20: #272822; 
+  --grey-01: #efefef; 
+  --orange-2: #ff6e6c; 
+  --purple: #1f1135; 
+  --grey: #e2daeb; 
+  --headline1: 700 3rem/3.375rem Inter; 
+  --headline2: 700 2.375rem/2.700000047683716rem Inter; 
+  --headline3: 700 2rem/2rem Inter; 
+  --headline4: 700 1.5rem/1.649999976158142rem Inter; 
+  --headline5: 700 1.25rem/1.649999976158142rem Inter; 
+  --body1-regular-default: 400 1.1875rem/1.7999999523162842rem Inter; 
+  --body1-regular-underline: 400 1.1875rem/1.7999999523162842rem Inter; 
+  --body1-bold-default: 700 1.1875rem/1.7999999523162842rem Inter; 
+  --body1-bold-underline: 700 1.1875rem/1.7999999523162842rem Inter; 
+  --body2-regular-default: 400 1rem/1.5rem Inter; 
+  --body2-regular-underline: 400 1rem/1.5rem Inter; 
+  --body2-bold-default: 700 0.875rem/1.5rem Inter; 
+  --body2-bold-underline: 700 0.875rem/1.5rem Inter; 
+  --button-regular: 400 1rem/1.5rem Inter; 
+  --button-bold: 700 1rem/1.5rem Inter; 
+  --body3-regular: 400 1rem/1.5625rem Monaco; 
+  
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+

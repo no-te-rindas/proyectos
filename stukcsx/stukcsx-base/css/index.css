@@ -1,0 +1,23 @@
+:root {
+  --black: #1a202c; 
+  --white: #ffffff; 
+  --grey-1: #666666; 
+  --grey-2: #999999; 
+  --green: #07a05d; 
+  --red: #ff4e55; 
+  --button: 600 1.75rem/2rem Proxima Nova; 
+  --headline1: 700 3.4375rem/4rem Proxima Nova; 
+  --body1-bold: 700 1rem/1.5rem Proxima Nova; 
+  --body1-regular: 400 1rem/1.5rem Proxima Nova; 
+  --body2-bold: 700 0.875rem/1.5rem Proxima Nova; 
+  --body2-regular: 400 0.875rem/1.5rem Proxima Nova; 
+  --caption-regular: 400 0.75rem/1.5rem Proxima Nova; 
+  --caption-semibold: 600 0.75rem/1.5rem Proxima Nova;   
+
+}
+
+body {
+  color: var(--white);
+  background-color: var(--green);
+}
+

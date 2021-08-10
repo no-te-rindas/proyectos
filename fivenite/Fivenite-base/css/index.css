@@ -1,0 +1,16 @@
+
+:root {
+  --black: #2a2a2a; 
+  --grey: #cccccc; 
+  --white: #ffffff; 
+  --primary: #ffff01; 
+  --body2-semibold: 600 0.75rem/1.5rem Open Sans;     
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

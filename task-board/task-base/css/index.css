@@ -1,0 +1,26 @@
+:root {
+--white: #ffffff; 
+--black-1: #202020; 
+--primary: #1b90fc; 
+--grey: #929292; 
+--green: #519839; 
+--grey-bg: #ebecf0; 
+--grey-dark: #5e6c84; 
+--headline1: 700 2.5rem/normal Inter; 
+--subtitle1: 700 1.625rem/1.5rem Inter; 
+--button: 500 0.875rem/1rem Inter; 
+--headline2: 700 1.5rem/normal Inter; 
+--body1-regular: 400 1rem/1.5rem Inter; 
+--body1-bold: 700 1rem/1.5rem Inter; 
+--body2-bold: 700 0.875rem/1.5rem Inter; 
+--body2-regular: 400 0.875rem/1.5rem Inter; 
+--caption-regular: 400 0.75rem/1.5rem Inter; 
+--caption-bold: 700 0.75rem/1.5rem Inter; 
+
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+

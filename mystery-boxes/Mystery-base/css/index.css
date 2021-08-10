@@ -1,0 +1,35 @@
+
+:root { 
+  --white: #ffffff; 
+  --woodsmoke: #121617; 
+  --jaffa: #f38a38; 
+  --bombay: #aeaeaf; 
+  --junglegreen: #2bbf6d; 
+  --gallery: #f0f0f0; 
+  --midgray: #6b6b6c; 
+  --pictonblue: #53c0e5; 
+  --oldbrick: #8b2220; 
+  --mariner: #2a61ca; 
+  --torchred: #f3111a; 
+  --black-background: #23282c; 
+  --background-main: #344046; 
+  --gradient: linear-gradient(45deg, #fccf31 0%, #f55555 100%); 
+  --headline1: 400 1.75rem/normal Roboto; 
+  --button: 500 0.875rem/1rem Roboto; 
+  --headline2: 700 1.5rem/normal Roboto; 
+  --body1-regular: 400 0.9375rem/0.9375rem Roboto; 
+  --body1-bold: 700 0.9375rem/0.9375rem Roboto; 
+  --body2-bold: 700 0.875rem/0.875rem Roboto; 
+  --body2-regular: 400 0.875rem/0.875rem Roboto; 
+  --caption-regular: 400 0.75rem/0.75rem Roboto; 
+  --caption-bold: 700 0.75rem/0.75rem Roboto; 
+  
+}
+
+body {
+  color: var(--primary);
+  background-color: var(--black);
+}
+
+
+

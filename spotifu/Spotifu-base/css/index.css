@@ -1,0 +1,27 @@
+
+:root { 
+  --primary: #00b050; 
+  --white: #ffffff; 
+  --gray10: #b3b3b3; 
+  --gray20: #737373; 
+  --gray30: #282828; 
+  --gray40: #181818; 
+  --gray50: #121212; 
+  --gray60: #000000; 
+  --headline1: 900 2rem/normal Avenir; 
+  --headline2: heavy 1.5rem/1.75rem Avenir; 
+  --button: 500 0.875rem/1rem Avenir; 
+  --subtitle2: roman 0.75rem/normal Avenir; 
+  --smallfont: roman 0.65625rem/normal Avenir; 
+  --basefont-normal: roman 0.875rem/1.375rem Avenir; 
+  --basefont-bold: 900 0.875rem/1.375rem Avenir; 
+  ;   
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

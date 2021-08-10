@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Pepito;
+  src: url('./pepito.woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Pepito;
+  src: url('./pepito-bold.woff');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Pepito;
+  src: url('./pepito-blakc.woff');
+  font-style: normal;
+  font-weight: 900;
+}

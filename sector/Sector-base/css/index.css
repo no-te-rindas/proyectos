@@ -1,0 +1,20 @@
+
+:root { 
+  --bg: #0b1d26; 
+  --white: #ffffff; 
+  --accent: #fdd130; 
+  --headline1: 500 5.5rem/6.25rem Poppins; 
+  --headline2: 600 4rem/normal Poppins; 
+  --button: 700 1.125rem/normal Poppins; 
+  --body1-bold: 700 1.125rem/2rem Poppins; 
+  --body1-medium: 500 1.125rem/2rem Poppins; 
+  --body1-regular: 400 1.125rem/2rem Poppins;     
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+

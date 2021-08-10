@@ -1,0 +1,27 @@
+
+:root {
+  --primary: #fed941; 
+  --white: #fffffe; 
+  --grey: #a7a9be; 
+  --black: #000000; 
+  --background:#0f0e17; 
+  --headline2: extrabold 2.875rem/3.5rem Montserrat; 
+  --headline1: 700 3rem/3.625rem Montserrat; 
+  --headline3: 700 1.75rem/normal Montserrat; 
+  --headline4: 700 1.5625rem/normal Montserrat; 
+  --button: 700 1.125rem/1.75rem Montserrat; 
+  --caption: 400 0.75rem/1.375rem Montserrat; 
+  --body1-regular: 400 1.125rem/1.6875rem Montserrat; 
+  --body1-bold: 700 1.125rem/1.6875rem Montserrat; 
+  --body2-regular: 400 1rem/1.375rem Montserrat; 
+  --body2-bold: 700 1rem/1.1875rem Montserrat; 
+
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

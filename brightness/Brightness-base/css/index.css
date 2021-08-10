@@ -1,0 +1,16 @@
+
+:root {
+  --black: #000000; 
+  --primary: #ff8906; 
+  --grey-bg: #fbfbfb; 
+  --grey: #cecece; 
+  --white: #ffffff; 
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

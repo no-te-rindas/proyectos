@@ -1,0 +1,23 @@
+
+:root { 
+  --black: #141c27; 
+  --radial: linear-gradient(56deg, #172030 0%, #292b2e 100%); 
+  --stroke: #272829; 
+  --pink: #e046d7; 
+  --green: #3ab499; 
+  --bg: #172030; 
+  --white: #ffffff; 
+  --red: #f94409; 
+  --button: #172030; 
+  --button: 500 1rem/1rem Roboto; 
+  --title: 700 1.5rem/normal Roboto; 
+     
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+}
+
+
+

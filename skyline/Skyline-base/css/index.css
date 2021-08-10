@@ -1,0 +1,46 @@
+
+:root { 
+  --black: #212529; 
+  --subtitles: #425466; 
+  --bg: #0e0c20; 
+  --secondarybuttons: #0a2540; 
+  --white: #ffffff; 
+  --purple: #635cff; 
+  --grey: #f6f9fc; 
+  --blue: #32a7ec; 
+  --dark-blue: #092540; 
+  --gradient: linear-gradient(4deg, #bf9079 3.33%, #c8717a 28.4%, #b92ec1 46.32%, #2b51ea 67.28%, #3480b8 83.94%); 
+  --grey: #b6b6bc; 
+  --green: #8bde61; 
+  --pink: #d424e6; 
+  --red: #f71058; 
+  --orange: #e1585f; 
+  --desktop-category: semi bold 3.75rem/3.75rem Inter; 
+  --desktop-h1: semi bold 3.375rem/4.050000190734863rem Inter; 
+  --desktop-h2: semi bold 2.75rem/3.299999952316284rem Inter; 
+  --desktop-h3: semi bold 2.5rem/3rem Inter; 
+  --desktop-h4: semi bold 1.875rem/2.25rem Inter; 
+  --desktop-body1regular: 400 1.25rem/1.6875rem Inter; 
+  --desktop-body1semibold: semi bold 1.25rem/1.6875rem Inter; 
+  --desktop-body2regular: 400 0.9375rem/1.5750000476837158rem Inter; 
+  --desktop-body2bold: semi bold 0.9375rem/1.5750000476837158rem Inter; 
+  --desktop-buttons: 500 0.8125rem/1.25rem Helvetica Neue; 
+  --mobile-category: semi bold 2rem/3.359999895095825rem Inter; 
+  --mobile-h1: semi bold 2.25rem/3.7799999713897705rem Inter; 
+  --mobile-h2: semi bold 1.75rem/2.940000057220459rem Inter; 
+  --mobile-h3: semi bold 1.5rem/2.5199999809265137rem Inter; 
+  --mobile-body1regular: 400 0.9375rem/1.5750000476837158rem Inter; 
+  --mobile-body1semibold: semi bold 0.9375rem/1.5750000476837158rem Inter; 
+  --mobile-body2regular: 400 0.8125rem/1.3650000095367432rem Inter; 
+  --mobile-body2semibold: semi bold 0.8125rem/1.3650000095367432rem Inter; 
+  --mobile-button: 500 0.8125rem/1.25rem Helvetica Neue; 
+    
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+

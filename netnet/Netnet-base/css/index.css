@@ -1,0 +1,22 @@
+
+:root { 
+  --white: #ffffff; 
+  --grey: #686868; 
+  --black: #000000; 
+  --red: #d22f26; 
+  --subtitle1: 700 1.09375rem/normal Avenir Next; 
+  --headline1: 700 1.708984375rem/normal Avenir Next; 
+  --button: demi bold 0.699999988079071rem/normal Avenir Next; 
+  --body1-demibold: demi bold 0.875rem/1.5rem Avenir Next; 
+  --body1-regular: 400 0.875rem/1.5rem Avenir Next; 
+  --body2-demibold: demi bold 0.699999988079071rem/normal Avenir Next; 
+  --body2-regular: 400 0.699999988079071rem/normal Avenir Next; 
+}
+
+body {
+  color: var(--primary);
+  background-color: var(--black);
+}
+
+
+
