@@ -1,0 +1,11 @@
+:root {
+--white: #ffffff; 
+--body1-regular: 400 1rem/1.5rem Poppins; 
+--body1-bold: 700 1rem/1.5rem Poppins;  
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+}
+
