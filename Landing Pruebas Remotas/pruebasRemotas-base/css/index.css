@@ -1,0 +1,29 @@
+
+:root { 
+  --primary: #6246ea; 
+  --secondary: #d1d1e9; 
+  --secondary2: #112d57; 
+  --firsttext: #20262a; 
+  --lighttext: #ffffff; 
+  --secondtext: #5c5c5c; 
+  --darkbackground: #182333; 
+  --lightbackground: #ffffff; 
+  --headline: 700 4.5rem/4.875rem Inter; 
+  --secondheadline: 700 3.5rem/4.0625rem Inter; 
+  --title: 400 2.25rem/2.625rem Inter; 
+  --subheading: 400 1.5rem/2.375rem Inter; 
+  --button: semi bold 1.125rem/1.25rem Inter; 
+  --subtitle: 400 1.125rem/1.75rem Inter; 
+  --paragraphe: 400 1.1875rem/1.875rem Inter; 
+  --link: 400 1.125rem/1.25rem Inter; 
+  --mobilemenu: 400 1.125rem/1.25rem Inter; 
+  
+}
+
+body {
+  color: var(--primary);
+  background-color: var(--secondary);
+}
+
+
+
