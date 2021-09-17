@@ -1,0 +1,28 @@
+
+:root { 
+  --mainblack: #181717; 
+  --maingray: #606060; 
+  --mainwhite: #f3f3f3; 
+  --secondary: #2429af; 
+  --bg: #faf7f0; 
+  --brown: #883f16; 
+  --heading-1: 500 3.75rem/4rem DM Sans; 
+  --heading-2: 500 2.5rem/3rem DM Sans; 
+  --body: 400 1.125rem/1.5rem Inter; 
+  --navigation: 500 1.3125rem/7.500000298023224rem DM Sans; 
+  --sub-text: 400 0.875rem/1.375rem Inter; 
+  --button: 500 1.125rem/1.5rem Inter; 
+  --heading-3: 400 2rem/3rem DM Sans; 
+  --heading-4: 400 1.125rem/1.8125rem DM Sans; 
+  --subheader-link: 500 1.125rem/1.5rem Inter; 
+  
+  
+}
+
+body {
+  color: var(--mainblack);
+  background-color: var(--bg);
+}
+
+
+
