@@ -1,0 +1,34 @@
+
+:root { 
+  --primary: #5928e5; 
+  --white: #ffffff; 
+  --secondary: #fed9da; 
+  --black: #000000; 
+  --background: #0f0e17; 
+  --headline: #fffffe; 
+  --paragraph: #a7a9be; 
+  --secondary: #f25f4c; 
+  --tertiary: #e53170; 
+  --button-background: #ff8906; 
+  --button-text: #fffffe; 
+  --headline1: 700 4rem/5rem Nunito; 
+  --headline2: 700 3rem/3.5rem Nunito; 
+  --headline3: 700 2.5rem/3rem Nunito; 
+  --headline4: 400 2rem/2.5rem Lora; 
+  --headline5: 700 1.5rem/2rem Nunito; 
+  --button: 700 1rem/1.5rem Nunito; 
+  --caption: 400 0.75rem/1.375rem Cantarell; 
+  --body1-regular: 400 1.5rem/2.5rem Lora; 
+  --body1-bold: 700 1.5rem/2.5rem Lora; 
+  --body2-regular: 400 1.25rem/2rem Lora; 
+  --body2-bold: 700 1.25rem/2rem Lora; 
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+  font: var(--headline2);
+}
+
+
+
