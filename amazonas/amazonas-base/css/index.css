@@ -18,6 +18,7 @@
 }
 
 body {
+  font: var(--headline1);
   color: var(--white);
   background-color: var(--black);
 }

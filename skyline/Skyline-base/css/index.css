@@ -1,4 +1,4 @@
-
+@import './font/HelveticaNeue.ttc';
 :root { 
   --black: #212529; 
   --subtitles: #425466; 
@@ -39,7 +39,8 @@
 
 body {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--purple);
+  font: var(--mobile-body1regular);
 }
 
 

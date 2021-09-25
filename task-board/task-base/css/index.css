@@ -16,11 +16,11 @@
 --body2-regular: 400 0.875rem/1.5rem Inter; 
 --caption-regular: 400 0.75rem/1.5rem Inter; 
 --caption-bold: 700 0.75rem/1.5rem Inter; 
-
 }
 
 body {
   color: var(--white);
   background-color: var(--primary);
+  font: var(--headline1);
 }
 

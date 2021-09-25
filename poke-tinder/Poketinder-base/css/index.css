@@ -17,7 +17,8 @@
 
 body {
   color: var(--white);
-  background-color: var(--black);
+  background-color: var(--black-1);
+  font: var(--subtitle1);
 }
 
 

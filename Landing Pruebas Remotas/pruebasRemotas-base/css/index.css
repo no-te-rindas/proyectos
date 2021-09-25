@@ -2,7 +2,7 @@
 :root { 
   --primary: #6246ea; 
   --secondary: #d1d1e9; 
-  --secondary2: #112d57; 
+  --secondary: #112d57; 
   --firsttext: #20262a; 
   --lighttext: #ffffff; 
   --secondtext: #5c5c5c; 
@@ -22,7 +22,8 @@
 
 body {
   color: var(--primary);
-  background-color: var(--secondary);
+  background-color: var(--black);
+  font: var(--title);
 }
 
 

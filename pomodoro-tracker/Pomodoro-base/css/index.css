@@ -16,7 +16,8 @@
 
 body {
   color: var(--white);
-  background-color: var(--black);
+  background-color: var(--bg);
+  font: var(--title);
 }
 
 

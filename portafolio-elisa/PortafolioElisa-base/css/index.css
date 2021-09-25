@@ -1,0 +1,24 @@
+
+:root { 
+  --black: #0f0a0a; 
+  --primary: #42e2b8; 
+  --gradient: linear-gradient(45deg, #fad7a1 0%, #e96d71 100%); 
+  --headline1: 700 5.9375rem/9.6068754196167rem Oxygen; 
+  --headline2: 700 3.6875rem/5.96637487411499rem Oxygen; 
+  --headline3: 700 3rem/4.854000091552734rem Oxygen; 
+  --headline4: 700 2.125rem/3.4382500648498535rem Oxygen; 
+  --headline5: 700 1.5rem/2.427000045776367rem Oxygen; 
+  --body1: 400 1rem/1.6180000305175781rem Oxygen; 
+  --body2: 400 0.875rem/1.4157500267028809rem Oxygen; 
+  --button: 700 0.875rem/1.4157500267028809rem Oxygen; 
+  --caption: 400 0.75rem/1.2135000228881836rem Oxygen; 
+}
+
+body {
+  color: var(--white);
+  background-color: var(--primary);
+  font: var(--headline2);  
+}
+
+
+

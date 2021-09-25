@@ -22,5 +22,6 @@
 body {
   color: var(--white);
   background-color: var(--primary);
+  font: var(--headline2);
 }
 

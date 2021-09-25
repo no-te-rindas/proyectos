@@ -1,3 +1,6 @@
+@import './font/AvenirLTStd-Black.otf';
+@import './font/AvenirLTStd-Book.otf';
+@import './font/AvenirLTStd-Roman.otf';
 
 :root { 
 --white: #ffffff; 

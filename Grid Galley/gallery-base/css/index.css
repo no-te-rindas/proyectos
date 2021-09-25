@@ -1,11 +1,13 @@
 :root {
---white: #ffffff; 
+--white: hsl(0, 0%, 100%); 
+--black: #111111; 
 --body1-regular: 400 1rem/1.5rem Poppins; 
 --body1-bold: 700 1rem/1.5rem Poppins;  
 }
 
 body {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--black);
+  font: var(--body1-regular);
 }
 

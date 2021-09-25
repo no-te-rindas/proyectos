@@ -29,6 +29,7 @@
 body {
   color: var(--primary);
   background-color: var(--black);
+  font: var(--headline1);
 }
 
 

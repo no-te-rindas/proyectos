@@ -1,4 +1,4 @@
-
+@import './font/BurbankBigCondensed-Black.otf';
 :root {
   --black: #2a2a2a; 
   --grey: #cccccc; 
@@ -10,6 +10,7 @@
 body {
   color: var(--white);
   background-color: var(--black);
+  font: var(--body2-semibold);
 }
 
 

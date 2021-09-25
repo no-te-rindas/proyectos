@@ -22,8 +22,9 @@
 }
 
 body {
-  color: var(--white);
-  background-color: var(--black);
+  color: var(--blue20);
+  background-color: var(--gray50);
+  font: var( --body1-regular);
 }
 
 

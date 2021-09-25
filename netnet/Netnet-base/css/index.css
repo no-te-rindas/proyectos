@@ -1,3 +1,6 @@
+@import './font/Avenir Next Condensed.ttc';
+@import './font/Avenir Next.ttc';
+@import './font/Avenir.ttc';
 
 :root { 
   --white: #ffffff; 
@@ -14,8 +17,10 @@
 }
 
 body {
-  color: var(--primary);
+  color: var(--white);
   background-color: var(--black);
+  font: var(--headline1);
+
 }
 
 

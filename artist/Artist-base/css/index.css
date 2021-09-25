@@ -17,8 +17,9 @@
 }
 
 body {
-  color: var(--white);
-  background-color: var(--black);
+  color: var(--black);
+  background-color: var(--grey);
+  font: var(--headline4);
 }
 
 

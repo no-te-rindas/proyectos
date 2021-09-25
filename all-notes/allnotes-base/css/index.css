@@ -23,12 +23,11 @@
   --body2-bold-default: 700 0.875rem/1.5rem Inter; 
   --body2-bold-underline: 700 0.875rem/1.5rem Inter; 
   --button-regular: 400 1rem/1.5rem Inter; 
-  --button-bold: 700 1rem/1.5rem Inter; 
-  --body3-regular: 400 1rem/1.5625rem Monaco; 
-  
+  --button-bold: 700 1rem/1.5rem Inter;  
 }
 
 body {
+  font: var(--headline1);
   color: var(--white);
   background-color: var(--black);
 }

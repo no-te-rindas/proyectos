@@ -18,7 +18,7 @@
   --body1-bold: 700 1rem/1.5rem Nunito; 
   --body2-regular: 400 0.875rem/normal Nunito; 
   --body2-bold: 700 0.875rem/normal Nunito; 
-  --button-button: 500 0.875rem/1rem Rubik; 
+  --button-button: 600 0.875rem/1rem Nunito; 
   --caption-caption: 400 0.6875rem/normal Nunito; 
     
 }
@@ -26,6 +26,7 @@
 body {
   color: var(--white);
   background-color: var(--black);
+  font: var(--body1-regular);
 }
 
 

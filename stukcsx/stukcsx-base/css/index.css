@@ -1,3 +1,7 @@
+@import './font/Proxima Nova Regular.otf';
+@import './font/Proxima Nova Semibold.otf';
+@import './font/Proxima Nova Extrabold.otf';
+
 :root {
   --black: #1a202c; 
   --white: #ffffff; 
@@ -13,11 +17,11 @@
   --body2-regular: 400 0.875rem/1.5rem Proxima Nova; 
   --caption-regular: 400 0.75rem/1.5rem Proxima Nova; 
   --caption-semibold: 600 0.75rem/1.5rem Proxima Nova;   
-
 }
 
 body {
   color: var(--white);
   background-color: var(--green);
+  font: var(--body1-regular);
 }
 

@@ -18,6 +18,7 @@
 body {
   color: var(--white);
   background-color: var(--black);
+  font: var(--body1-regular);
 }
 
 

@@ -35,6 +35,7 @@
 body {
   color: var(--white);
   background-color: var(--black);
+  font: var(--desktop-h1);
 }
 
 

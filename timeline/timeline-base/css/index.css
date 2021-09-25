@@ -13,7 +13,8 @@
 }
 
 body {
-  color: var(--white);
+  color: var(--black);
   background-color: var(--primary);
+  font: var(--desktop-body2-regular);
 }
 

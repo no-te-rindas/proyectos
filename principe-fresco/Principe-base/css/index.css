@@ -9,12 +9,12 @@
   --body1: 400 1.125rem/2rem Poppins; 
   --body1-underline: 400 1.125rem/2rem Poppins; 
   --h3: 400 1.25rem/1.5rem Poppins; 
-    
 }
 
 body {
   color: var(--white);
-  background-color: var(--primary);
+  background-color: var(--blue);
+  font: var(--h1);
 }
 
 
