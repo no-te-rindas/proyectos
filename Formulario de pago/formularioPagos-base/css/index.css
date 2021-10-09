@@ -1,0 +1,20 @@
+
+:root { 
+  --black: #030102; 
+  --grey: #9ea8bd; 
+  --grey2: #e2e6ee; 
+  --primary: #ca097a; 
+  --white: #ffffff; 
+  --text1regular: 400 1rem/normal Roboto; 
+  --heading1: 700 1.25rem/normal Roboto; 
+  --text2regular: 300 0.75rem/normal Roboto;   
+}
+
+body {
+  color: var(--white);
+  background-color: var(--black);
+  font: var(--heading1);
+}
+
+
+
