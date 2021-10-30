@@ -1,0 +1,36 @@
+
+:root { 
+  --black: #202225; 
+  --blue: #4eacee; 
+  --green: #2bac76; 
+  --white: #ffffff; 
+  --grey: #8f9296; 
+  --pink: #d63864; 
+  --red: #ed4245; 
+  --black-1: #2f3136; 
+  --black-hover: #3a3c42; 
+  --bg: #37393e; 
+  --yellow: #eac645; 
+  --black-2: #292b2f; 
+  --purple: #414672; 
+  --grey-2: #b9bbbe; 
+  --headline1: 600 1.75rem/normal Poppins; 
+  --headline2: 600 1.5rem/normal Poppins; 
+  --headline3: 600 1.25rem/1.375rem Poppins; 
+  --button: 400 0.875rem/1rem Poppins; 
+  --body1-regular: 400 1rem/1.5rem Poppins; 
+  --body1-bold: 700 1rem/1.5rem Poppins; 
+  --body2-bold: 700 0.875rem/1.5rem Poppins; 
+  --body2-regular: 400 0.875rem/1.5rem Poppins; 
+  --caption-regular: 400 0.75rem/1rem Poppins; 
+  --caption-bold: 600 0.75rem/1rem Poppins;   
+}
+
+body {
+  color: var(--white);
+  background-color: var(--bg);
+  font: var(--body2-regular);
+}
+
+
+
