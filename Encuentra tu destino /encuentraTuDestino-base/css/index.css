@@ -1,0 +1,23 @@
+
+:root { 
+  --primary: #f5385d; 
+  --black: #222222; 
+  --grey: #717171; 
+  --white: #ffffff; 
+  --title-32bold: 700 2rem/2.25rem Inter; 
+  --subtitle-22medium: 500 1.375rem/1.625rem Inter; 
+  --body-16regular: 400 1rem/1.25rem Inter; 
+  --body-16bold: 700 1rem/1.25rem Inter; 
+  --body-14regular: 400 0.875rem/1.125rem Inter; 
+  --body-14regular_u: 500 0.875rem/1.25rem Inter; 
+  --caption-12bold: 700 0.75rem/1rem Inter;
+}
+
+body {
+  font: var(--body-16regular);
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+
