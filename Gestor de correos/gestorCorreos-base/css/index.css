@@ -1,0 +1,57 @@
+
+:root { 
+  --white: #ffffff; 
+  --primary-202124: #202124; 
+  --primary-00054: #000000; 
+  --primary-00037: #000000; 
+  --primary-00016: #000000; 
+  --primary-0005: #000000; 
+  --primary-specialty-00067: #000000; 
+  --primary-specialty-00060: #000000; 
+  --categories-promotions-sidebar-1: #3c7d40; 
+  --categories-promotions-sidebar-2: #e9f4eb; 
+  --categories-promotions-badge-1: #98d7e4; 
+  --categories-promotions-badge-2: #0d3b44; 
+  --categories-updates-sidebar-1: #d6792d; 
+  --categories-updates-sidebar-2: #fbf0e4; 
+  --categories-updates-badge-1: #fb4c2f; 
+  --categories-updates-badge-2: #ffffff; 
+  --categories-forums-sidebar-1: #944feb; 
+  --categories-forums-sidebar-2: #f1e8fb; 
+  --categories-social-sidebar-1: #3474e0; 
+  --categories-social-sidebar-2: #e9f0fd; 
+  --categories-social-badge-1: #b3efd3; 
+  --categories-social-badge-2: #0b4f30; 
+  --categories-inbox-darkred: #c84031; 
+  --categories-inbox-lightred: #f9e9e7; 
+  --google-yellow: #f2be42; 
+  --google-green: #58a55c; 
+  --google-red:#d95140; 
+  --google-blue: #5186ec; 
+  --selected-smarttext: #1a73e8; 
+  --selected-nav-blue-1: #4d90f0; 
+  --selected-nav-blue2: #c2dbff; 
+  --basics-white: #ffffff; 
+  --button-primary-initial: #1a73e8; 
+  --button-primary-divider: #185abc; 
+  --h1-regular: 400 1.375rem/7.500000298023224rem Roboto; 
+  --body-16px-medium: 500 1rem/7.500000298023224rem Roboto; 
+  --body-16px-regular: 400 1rem/7.500000298023224rem Roboto; 
+  --body-14px-regular: 400 0.875rem/normal Roboto; 
+  --body-14px-medium: 500 0.875rem/7.500000298023224rem Roboto; 
+  --body-14px-bold: 700 0.875rem/normal Roboto; 
+  --caption-12px-medium: 500 0.75rem/7.500000298023224rem Roboto; 
+  --caption-12px-bold: 700 0.75rem/7.500000298023224rem Roboto; 
+  --caption-12px-regular: 400 0.75rem/7.500000298023224rem Roboto; 
+  --caption-11px-mediumlink: 500 0.699999988079071rem/7.500000298023224rem Roboto; 
+  
+}
+
+body {
+  font: var(--body-16px-medium);
+  color: var(--white);
+  background-color: var(--primary-00016);
+}
+
+
+
