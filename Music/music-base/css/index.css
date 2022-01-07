@@ -1,0 +1,37 @@
+
+:root { 
+  --bg: #1f1f1f; 
+  --white: #ededed; 
+  --grey-1: #363636; 
+  --grey-2: #aeaeae; 
+  --grey-3: #252526; 
+  --grey-4: #1a1a1a; 
+  --primary-50: #e8636e; 
+  --primary-60: #c42926; 
+  --title-34bold: 700 2.125rem/2.5rem Inter; 
+  --subtitle-26semibold: 600 1.625rem/2rem Inter; 
+  --subtitle-26regular: 400 1.625rem/2rem Inter; 
+  --subtitle-22regular: 400 1.625rem/2rem Inter; 
+  --subtitle-24bold: 700 1.5rem/2rem Inter; 
+  --body-17regular: 400 1.0625rem/1.375rem Inter; 
+  --body-17bold: 700 1.0625rem/1.375rem Inter; 
+  --body-13regular: 400 0.8125rem/1rem Inter; 
+  --body-12regular: 400 0.75rem/0.9375rem Inter; 
+  --body-11regular: 400 0.6875rem/0.875rem Inter; 
+  --body-11semibold: 600 0.6875rem/0.875rem Inter; 
+  --body-12semibold: 600 0.75rem/0.9375rem Inter; 
+  --caption-12bold: 700 0.75rem/1rem Inter; 
+  --caption-12regular: 400 0.75rem/1rem Inter; 
+  --caption-12regular_u: 400 0.75rem/1.25rem Inter; 
+  
+  
+}
+
+body {
+  font: var(--subtitle-26semibold);
+  color: var(--white);
+  background-color: var(--primary-50);
+}
+
+
+
