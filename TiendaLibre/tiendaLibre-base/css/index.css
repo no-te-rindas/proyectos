@@ -1,0 +1,40 @@
+@import './font/Proxima Nova Extrabold.otf';
+@import './Proxima Nova Light.otf';
+@import './Proxima Nova Regular.otf';
+@import './Proxima Nova Semibold.otf';
+:root { 
+  --black: #333333; 
+  --grey-header: #7e7839; 
+  --grey-1: #bfbfbf; 
+  --grey-2: #676767; 
+  --grey-4: #ededed; 
+  --white: #ffffff; 
+  --blue: #4a81f2; 
+  --yellow: #fdf173; 
+  --bg: #ebebeb; 
+  --green: #00a650; 
+  --orange: #ee7f45; 
+  --red: #ff7878; 
+  --title-36ligth: 300 2.25rem/2.25rem Proxima Nova; 
+  --title-32ligth: 300 2rem/normal Proxima Nova; 
+  --title-24regular: 400 1.5rem/1.5rem Proxima Nova; 
+  --title-22ligth: 300 1.375rem/normal Proxima Nova; 
+  --title-22semi-bold: 600 1.375rem/1.5rem Proxima Nova; 
+  --body-regular18: 400 1.125rem/normal Proxima Nova; 
+  --body-16regular: 400 1rem/1.25rem Proxima Nova; 
+  --body-16bold: 600 1rem/1.25rem Proxima Nova; 
+  --body-14regular: 400 0.875rem/1.125rem Proxima Nova; 
+  --body-14regular_u: 400 0.875rem/1.25rem Proxima Nova; 
+  --caption-12bold: 700 0.75rem/1rem Inter; 
+  --caption-12regular: 400 0.75rem/1rem Inter; 
+  --caption-12regular_u: 400 0.75rem/1.25rem Inter;    
+}
+
+body {
+  font: var(--title-24regular);
+  color: var(--white);
+  background-color: var( --grey-1);
+}
+
+
+

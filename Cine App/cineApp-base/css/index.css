@@ -1,0 +1,35 @@
+
+:root { 
+  --primary: #0f1a53; 
+  --black: #222222; 
+  --grey-1: #f7f7f7; 
+  --grey-2: #eeeeee; 
+  --grey-3: #505050; 
+  --grey-4: #696969; 
+  --grey-5: #ececec; 
+  --white: #ffffff; 
+  --red: #e35b55; 
+  --blue: #6393cd; 
+  --yellow: #f7cd47; 
+  --body-16regular: 400 1rem/1.5rem Inter; 
+  --body-16bold: 700 1rem/1.25rem Inter; 
+  --body-14regular: 400 0.875rem/1.125rem Inter; 
+  --body-14regular_u: 500 0.875rem/1.25rem Inter; 
+  --body-8regular: 400 0.5rem/0.75rem Inter; 
+  --caption-12bold: 700 0.75rem/1rem Inter; 
+  --caption-12regular: 400 0.75rem/1rem Inter; 
+  --caption-12regular_u: 400 0.75rem/1.25rem Inter; 
+  --title-40medium: 500 2.5rem/normal Inter; 
+  --title-24medium: 500 1.5rem/2rem Inter; 
+  --title-18medium: 500 1.125rem/normal Inter; 
+  --title-medium16: 500 1rem/1.5rem Inter;  
+}
+
+body {
+  font: var(--title-40medium);
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+

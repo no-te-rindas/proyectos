@@ -1,0 +1,33 @@
+
+:root { 
+  --text_dark: #391400; 
+  --text_dark_gray: #391400; 
+  --white: #ffffff; 
+  --orange: #ef6d58; 
+  --text_light_gray: #ffffff; 
+  --bg: #16161a; 
+  --primary: #7f5af0; 
+  --bg-2: #242629; 
+  --grey-1: #94a1b2; 
+  --grey-2: #4d4d4d; 
+  --orange-ligth: #f9e5da; 
+  --h1: 800 4.5rem/5rem Epilogue; 
+  --h2: 800 3.5rem/4rem Epilogue; 
+  --h3: 800 2.5rem/3rem Epilogue; 
+  --h4: 700 1.5rem/2rem Epilogue; 
+  --h5: 400 1rem/2rem Epilogue; 
+  --label: 700 0.75rem/normal Epilogue; 
+  --text_big: 400 1.25rem/2rem Epilogue; 
+  --text: 400 1rem/2rem Epilogue; 
+  --text_small: 400 0.875rem/1.5rem Epilogue; 
+  --button: 900 0.875rem/normal Epilogue;    
+}
+
+body {
+  font: var(--h1);
+  color: var(--white);
+  background-color: var( --grey-1);
+}
+
+
+

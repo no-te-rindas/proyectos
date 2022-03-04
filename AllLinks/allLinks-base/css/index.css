@@ -1,0 +1,30 @@
+
+:root { 
+  --primary: #2081e2; 
+  --black: #222222; 
+  --grey-1: #717171; 
+  --grey-2: #f7f9fa; 
+  --white: #ffffff; 
+  --green: #00c3a5; 
+  --bg: #fbf9fb; 
+  --yellow-ligth: #fefbdc; 
+  --yellow-dark: #cc9e01; 
+  --blue-ligth: #2081e2; 
+  --subtitle-22medium: 500 1.375rem/1.625rem Inter; 
+  --subtitle-22bold: 700 1.375rem/1.625rem Inter; 
+  --body-16regular: 400 1rem/1.5rem Inter; 
+  --body-16bold: 700 1rem/1.25rem Inter; 
+  --body-14regular: 400 0.875rem/1.125rem Inter; 
+  --body-14regular_u: 500 0.875rem/1.25rem Inter; 
+  --body-14medium: 500 0.875rem/1.125rem Inter; 
+  --caption-12bold: 700 0.75rem/1rem Inter;   
+}
+
+body {
+  font: var(--subtitle-22medium);
+  color: var(--white);
+  background-color: var(--primary);
+}
+
+
+
