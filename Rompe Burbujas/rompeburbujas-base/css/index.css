@@ -1,0 +1,20 @@
+
+:root { 
+--white: #ffffff; 
+--black: #333333; 
+--adicalred: #ff4672; 
+--mediumorchid: #b169fa; 
+--skyblue: #4cdafe; 
+--lawngreen: #92f200; 
+--body-24bold: 700 1.5rem/normal Roboto Condensed; 
+  
+}
+
+body {
+  font: var(--body-24bold);
+  color: var(--mediumorchid);
+  background-color: var(--black);
+}
+
+
+

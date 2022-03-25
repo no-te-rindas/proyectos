@@ -1,0 +1,37 @@
+
+:root { 
+--primary: #34783b; 
+--white: #ffffff; 
+--black: #131313; 
+--grey-1: #666667; 
+--grey-2: #f2f2f2; 
+--grey-3: #c2c2c2; 
+--grey-4: #ededed; 
+--red: #ff585c; 
+--yellow: #ffca41; 
+--green-ligth: #f8f9f8; 
+--green-ligth: #bedb8f; 
+--title-58medium: 500 3.625rem/normal Inter; 
+--title-46regular: 400 2.875rem/normal Inter; 
+--title-32medium: 500 2rem/normal Inter; 
+--title-32regular: 400 2rem/normal Inter; 
+--subtitle-20bold: 700 1.25rem/normal Inter; 
+--subtitle-20regular: 400 1.25rem/normal Inter; 
+--body-16ligth: 300 1rem/1.5rem Inter; 
+--body-16regular: 400 1rem/1.5rem Inter; 
+--body-16bold: 700 1rem/1.5rem Inter; 
+--body-14regular: 400 0.875rem/1.125rem Inter; 
+--body-14regular_u: 500 0.875rem/1.25rem Inter; 
+--caption-12bold: 700 0.75rem/1rem Inter; 
+--caption-12ligth: 300 0.75rem/1.5rem Inter; 
+--caption-12regular_u: 400 0.75rem/1.25rem Inter; 
+}
+
+body {
+  font: var(--title-58medium);
+  color: var(--primary);
+  background-color: var(--white);
+}
+
+
+
